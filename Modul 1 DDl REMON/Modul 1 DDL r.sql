@@ -1,7 +1,7 @@
 -- Nama : RaimunDus Ama Suba Sabon
 -- Nim  : 23241112
 -- Kelas: C
--- Kelas: Pendidikan Teknologi Informasi
+-- Prodi: Pendidikan Teknologi Informasi
 
 -- Membat Database 
 CREATE DATABASE pti_mart;
